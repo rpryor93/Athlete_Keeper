@@ -1,0 +1,2 @@
+# Athlete_Keeper
+Final Project for UCF coding bootcamp.  Create an app which will help coaches stay connected with their athletes. Goal is to help athletes stay on top of weekly responsibliites as it pertains to their given team. The app will help both athletes and coaches stay organized and update with their team, strength and conditioning programs, game film/scouting reports, team reminders, and much more 
